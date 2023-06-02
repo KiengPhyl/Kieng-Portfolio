@@ -19,6 +19,7 @@ body {
     font-size: 20px;
     line-height: 28px;
     text-align: center;
+    color:#172b4d;
   }
   
   .button {
@@ -33,7 +34,6 @@ body {
     line-height: 52px;
     margin-top: unset;
     margin-bottom: unset;
-    color: #172b4d;
   }
   
   .socialmedia {
